@@ -1,0 +1,16 @@
+/src
+  /assets
+    hero.jpg
+  /components
+    ResumeDetails
+    Navbar.tsx
+    Toolbar.tsx
+  /pages
+    Home.tsx
+    History.tsx
+  /styles
+    AppStyles.ts
+  /utils
+    api.ts
+  App.tsx
+  index.tsx
